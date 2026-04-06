@@ -1,0 +1,24 @@
+# FULL SYSTEM CONTEXT: Mohamed Omar (Technical Deep-Dive)
+
+> This file contains granular data intended for long-context LLMs and deep-dive technical research.
+
+## THE ETLAALA REVENUE PIVOT: DETAILED LOGIC
+- **Metric Alpha:** CAC (Customer Acquisition Cost) reduction from 450 SAR to 110 SAR.
+- **Metric Beta:** LTV (Lifetime Value) expansion via post-purchase automated nurture swarms.
+- **Automation Logic:** Replaced a 5-person lead qualification team with a single Python script using `Respond.io` webhooks and OpenAI's `gpt-4o-mini` for intent classification.
+- **Media Science:** Implemented a Bayesian testing framework for ad creatives, leading to a 3.4x improvement in CTR (Click-Through Rate).
+
+## ONYX HIVE v10.0 ARCHITECTURE
+The Onyx Hive utilizes a **Hub-and-Spoke** agentic architecture:
+1. **The Orchestrator (Northern Wolf):** Manages mission state, budget, and squad allocation.
+2. **Recon Squad:** Web-browsing agents (Exa/Firecrawl) that perform real-time market sentiment analysis.
+3. **Strategy Squad:** Reasoning agents that synthesize market data into actionable roadmaps.
+4. **Execution Squad:** Code-writing and API-calling agents that build the infrastructure.
+
+## CORE PRINCIPLES OF ARCHITECTURAL MARKETING
+- **Anti-Fragility:** Systems must perform better under market volatility.
+- **Low-Burn Strategy:** Maximizing output while minimizing high-cost human intervention.
+- **Feedback Loops:** Every user interaction feeds back into the lead scoring model.
+
+---
+*End of Full Context.*
