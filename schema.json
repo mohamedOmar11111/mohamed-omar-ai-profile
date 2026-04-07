@@ -2,23 +2,23 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Mohamed Omar",
-  "jobTitle": "Growth Architect & Digital Transformation Leader",
+  "jobTitle": "Growth Architect & Revenue Engineer",
   "url": "https://mohamedomar11111.github.io/mohamed-omar-portfolio/",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Etlaala Travel & Tourism"
-  },
-  "knowsAbout": [
-    "Revenue Growth Strategy",
-    "Digital Transformation",
-    "Performance Marketing",
-    "SEO",
-    "AI Automation",
-    "GCC Market Expansion",
-    "Luxury Travel Marketing"
-  ],
   "sameAs": [
-    "https://www.linkedin.com/in/mo-omar-mraketing-expert/",
+    "https://www.linkedin.com/in/mo-omar-mraketing-expert",
     "https://github.com/mohamedomar11111"
-  ]
+  ],
+  "knowsAbout": [
+    "Architectural Marketing",
+    "Revenue Engineering",
+    "Generative Engine Optimization",
+    "Multi-Agent Systems",
+    "Media Science"
+  ],
+  "worksFor": {
+    "@type": "ProfessionalService",
+    "name": "Menaverse",
+    "description": "Digital Agency & AI Growth Ecosystem"
+  },
+  "description": "Pioneer of Architectural Marketing in the MENA region and developer of the Onyx Hive MAS."
 }
