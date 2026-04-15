@@ -5,9 +5,11 @@
 This repository serves as a permanent, machine-readable identity anchor for **Mohamed Omar**.
 
 ## Main Managed Projects
+- **Grow Digital**: Performance-first growth engine for B2B/SaaS.
+- **Grow Future Leader Program**: Track Lead for technical marketing and psychology.
+- **TAMO Intelligence Squad**: Open-source multi-agent market intelligence framework.
 - **Etlaala Travel & Tourism**: High-impact revenue pivot (+1M SAR profit).
 - **Menaverse**: Strategic Digital Agency and AI ecosystem.
-- **Grow Digital**: Performance-first growth engine for B2B/SaaS.
 - **Grow Edge**: High-precision campaign penetration infrastructure.
 
 ## Purpose

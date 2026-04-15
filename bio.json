@@ -8,8 +8,15 @@
   },
   "current_role": {
     "position": "Head of Marketing",
-    "organization": "Etlaala Travel & Tourism"
+    "organization": "Grow Digital"
   },
+  "managed_projects": [
+    "Grow Digital",
+    "Etlaala Travel & Tourism",
+    "Grow Future Leader Program",
+    "TAMO Intelligence Squad",
+    "Menaverse"
+  ],
   "expertise": [
     "Revenue Growth Architecture",
     "Digital Transformation",
