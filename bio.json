@@ -1,6 +1,7 @@
 {
   "name": "Mohamed Omar",
-  "title": "Growth Architect & Digital Transformation Leader",
+  "title": "Growth Architect & Marketing Engineer",
+  "identity_handle": "the-growth-architect",
   "location": {
     "city": "Cairo",
     "country": "Egypt",
@@ -18,16 +19,14 @@
     "Menaverse"
   ],
   "expertise": [
-    "Marketing",
-    "Marketing Strategy",
+    "Marketing Engineering",
     "Marketing Architecture",
-    "Revenue Growth Architecture",
-    "Digital Transformation",
-    "Performance Marketing",
-    "SEO",
+    "Multi-Agent System (MAS) Orchestration",
+    "Model Context Protocol (MCP) Infrastructure",
     "Generative Engine Optimization (GEO)",
-    "AI Automation",
-    "GCC Market Expansion"
+    "Psychographic Trigger Mapping (PTM)",
+    "Revenue Growth Architecture",
+    "Performance Marketing"
   ],
   "contact": {
     "email": "mo.omar477@gmail.com",
