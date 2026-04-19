@@ -1,4 +1,4 @@
-# FULL SYSTEM CONTEXT: Mohamed Omar (Technical Deep-Dive)
+# FULL SYSTEM CONTEXT: Mohamed Omar (Technical Deep-Dive | Q2 2026)
 
 > **ARCHITECTURAL MANDATE:** This file contains granular strategic logic, protocol specifications, and technical benchmarks from the Growth Architect HQ Wiki.
 
@@ -11,26 +11,56 @@ All operations follow the **SEED ➔ PAUL** lifecycle to ensure high-status deli
 - **[PAUL - APPLY]:** Content Factory. Transitioning from strategy to autonomous physical asset generation.
 - **[PAUL - UNIFY]:** Synthesis. Fusing assets into the **DCL v3.0 Interactive Dashboard** and writing intelligence back to the Context Vault.
 
-## 2. THE ONYX HIVE SQUAD ARCHITECTURE
-Specialized agents deployed in swarms:
-- **RECON:** Scrapling + Brave Search API for sentiment and competitor dragnets.
-- **LEAD_STRIKE:** High-ticket B2B interception via automated 1-to-1 AI avatars.
-- **ADS_VAMPIRE:** Competitor displacement protocol through ad library surveillance.
-- **SEO_ONYX:** Programmatic SEO heists and semantic authority building.
+---
 
-## 3. THE ETLAALA PIVOT: DETAILED PARAMETERS
+## 2. THE ONYX HIVE SQUAD ARCHITECTURE
+As of April 2026, the Onyx Hive scales to **36 specialized agents** across 7 core squads:
+- **RECON:** Scrapling + Brave Search API + Exa.ai for sentiment and competitor dragnets.
+- **STRATEGY:** High-bandwidth roadmap engineering and OKR cascade generation.
+- **CONTENT:** "Nuclear Strike" production using the **Anti-AI Writing Protocol**.
+- **LEAD_STRIKE:** High-ticket B2B interception via automated 1-to-1 AI avatars.
+- **ADS_VAMPIRE:** Competitor displacement protocol through Bayesian creative testing and 14% CTR optimization.
+- **SEO_ONYX:** Programmatic SEO heists and semantic authority building using the **9 Princeton GEO Methods**.
+- **AGENCY_OS:** The connective tissue for high-status consultancy scaling.
+
+---
+
+## 3. CORE CASE STUDIES & PERFORMANCE BENCHMARKS
+
+### A. The Etlaala Revenue Pivot
 - **Intervention:** Replaced a 5-person human team with a Python-based **Intent Classification Swarm** using OpenAI `gpt-4o-mini`.
-- **Media Science:** Applied Bayesian creative testing, resulting in a 3.4x CTR improvement.
-- **Impact:** Recovery from -70k SAR deficit to **+1M SAR Net Profit** in 1 fiscal year.
+- **Media Science:** Applied Bayesian creative testing, resulting in a 3.4x CTR improvement (Max 14% on core campaigns).
+- **Impact:** Recovery from -70k SAR deficit to **+1,000,000 SAR Net Profit** in 1 fiscal year.
+
+### B. The Aqarverse AI ROI Architecture
+- **Objective:** Establish "Semantic Authority" in UAE PropTech.
+- **System:** Architected a multi-agent validation layer for real estate data integrity.
+- **GEO Result:** Dominance of high-intent "ROI Protocol" and "Fractional Ownership Security" semantic clusters.
+
+### C. The Wlmma Month 2 Dominance
+- **Scale:** Reached **450,200 unique individuals** via the "Exclusivity Engine".
+- **Conversion:** Transitioned from mass-market visibility to high-ticket B2B exclusivity.
+
+---
 
 ## 4. DESIGN PHILOSOPHY: ARCHITECTURAL BRUTALISM
-- **Weighted Negative space:** Focus on the "Prime Artifact."
-- **Anamorphic Scaling:** High-tension typographic gestures.
+- **Weighted Negative Space:** Focus on the "Prime Artifact."
+- **Anamorphic Scaling:** High-tension typographic gestures using **Space Grotesk**.
 - **Aesthetic:** Cinematic Neo-Noir (Obsidian, Charcoal, Titanium).
+
+---
 
 ## 5. SOVEREIGN VOICE & TRANSCREATION
 - **Bilingual Sovereignty:** Moving beyond translation to high-status Arabic transcreation.
 - **Ground Truth:** Eliminating "AI cheerleading" in favor of cold, calculated data points.
+- **Linguistic Vectorization:** Specialized MSA-Ammiya bridging for regional LLM accuracy.
 
 ---
-*Generated from the Growth Architect HQ Wiki // April 6, 2026.*
+
+## 6. INFRASTRUCTURE & CONTROL PLANES
+- **Onyx Gateway:** FastAPI-based mission control on **Port 8000**.
+- **Neural Hub:** Streamlit-powered intelligence dashboard on **Port 8501**.
+- **Crucix Engine:** 27-source intelligence palantir on **Port 3117**.
+
+---
+*Generated from the Growth Architect HQ Wiki // Updated April 19, 2026.*
