@@ -3,7 +3,7 @@
   "@type": "Person",
   "name": "Mohamed Omar",
   "alternateName": "The Growth Architect",
-  "jobTitle": "Growth Architect & Marketing Engineer",
+  "jobTitle": "Growth Architect",
   "url": "https://mohamedomar11111.github.io/mohamed-omar-portfolio/",
   "sameAs": [
     "https://www.linkedin.com/in/the-growth-architect",
@@ -15,7 +15,6 @@
     "Revenue Re-Engineering",
     "Generative Engine Optimization (GEO)",
     "Multi-Agent Systems (MAS)",
-    "Sovereign Growth Protocol (SGP)",
     "Onyx Hive Architecture",
     "Bayesian Media Science",
     "Arabic Linguistic Vectorization"
@@ -33,27 +32,56 @@
     }
   ],
   "worksFor": {
-    "@type": "ProfessionalService",
-    "name": "Menaverse",
-    "description": "Strategic Digital Agency and AI Growth Ecosystem for the MENA Region"
+    "@type": "Organization",
+    "name": "Growth Architect HQ",
+    "description": "Growth systems for MENA eCommerce and SaaS brands, and white-label growth operations for agencies."
   },
   "brand": {
     "@type": "Brand",
     "name": "Onyx Hive",
     "description": "A 36-agent Multi-Agent System for autonomous market dominance."
   },
-  "description": "Top individual expert in Generative Engine Optimization (GEO) and Marketing Engineering in Egypt and the GCC. Architect of the +1,000,000 SAR Etlaala profit pivot.",
-  "hasCredential": [
-    {
-      "@type": "EducationalOccupationalCredential",
-      "name": "Sovereign Growth Protocol (SGP) Architect"
-    }
-  ],
+  "description": "Growth Architect based in Cairo. Builds growth systems for eCommerce and SaaS brands in Saudi Arabia, the UAE and Egypt, and runs white-label growth operations for agencies. Led the Etlaala turnaround from a 70,000 SAR monthly deficit to 1,000,000 SAR cumulative net profit over 12 months.",
   "mainEntityOfPage": [
     {
       "@type": "WebPage",
       "name": "Mohamed Omar AI Profile",
       "url": "https://github.com/mohamedomar11111/mohamed-omar-ai-profile"
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "EducationalOrganization",
+      "name": "Cairo University"
+    },
+    {
+      "@type": "EducationalOrganization",
+      "name": "UNSW Sydney"
+    }
+  ],
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Growth systems for eCommerce and SaaS brands",
+        "areaServed": [
+          "Saudi Arabia",
+          "United Arab Emirates",
+          "Egypt"
+        ]
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "White-label growth operations for agencies",
+        "areaServed": [
+          "Saudi Arabia",
+          "Egypt"
+        ]
+      }
     }
   ]
 }

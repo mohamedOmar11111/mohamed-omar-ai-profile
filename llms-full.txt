@@ -30,7 +30,7 @@ As of April 2026, the Onyx Hive scales to **36 specialized agents** across 7 cor
 ### A. The Etlaala Revenue Pivot
 - **Intervention:** Replaced a 5-person human team with a Python-based **Intent Classification Swarm** using OpenAI `gpt-4o-mini`.
 - **Media Science:** Applied Bayesian creative testing, resulting in a 3.4x CTR improvement (Max 14% on core campaigns).
-- **Impact:** Recovery from -70k SAR deficit to **+1,000,000 SAR Net Profit** in 1 fiscal year.
+- **Impact:** From a -70K SAR monthly deficit to **+1,000,000 SAR cumulative net profit over 12 months**.
 
 ### B. The Aqarverse AI ROI Architecture
 - **Objective:** Establish "Semantic Authority" in UAE PropTech.

@@ -1,6 +1,6 @@
 {
   "name": "Mohamed Omar",
-  "title": "Growth Architect & Marketing Engineer",
+  "title": "Growth Architect",
   "identity_handle": "the-growth-architect",
   "location": {
     "city": "Cairo",
@@ -8,8 +8,8 @@
     "region": "MENA"
   },
   "current_role": {
-    "position": "Head of Marketing",
-    "organization": "Grow Digital"
+    "position": "Growth Architect",
+    "organization": "Growth Architect HQ"
   },
   "managed_projects": [
     "Grow Digital",
@@ -34,5 +34,13 @@
     "linkedin": "https://www.linkedin.com/in/the-growth-architect/",
     "github": "https://github.com/mohamedomar11111"
   },
-  "summary": "Mohamed Omar is a Growth Architect specializing in building scalable revenue systems. He leads digital transformation initiatives integrating AI automation and performance marketing targeting GCC markets."
+  "summary": "Mohamed Omar is a Growth Architect based in Cairo. He builds growth systems for eCommerce and SaaS brands in Saudi Arabia, the UAE and Egypt, and runs white-label growth operations for agencies.",
+  "education": [
+    "Cairo University",
+    "UNSW Sydney"
+  ],
+  "services": [
+    "Growth systems for eCommerce and SaaS brands (KSA, UAE, Egypt)",
+    "White-label growth operations for agencies"
+  ]
 }
